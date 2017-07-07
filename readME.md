@@ -24,5 +24,8 @@
             类可以看做是对象类型的子类型->es6真正分离出来了
             类->日期Date类
                 正则RegExp类
-                错误Error类    
+                错误Error类 
+	2. Math->参考第三章Math.js
+	3. String->参考第三章String.js
+		   
 ### 第二部分. 客户端JavaScript
