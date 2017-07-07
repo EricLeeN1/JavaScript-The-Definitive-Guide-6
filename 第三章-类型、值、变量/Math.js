@@ -17,3 +17,15 @@ console.log(Math.log(10),'10的自然对数');//=>10的自然对数
 console.log(Math.log(10)/Math.LN10,'以10为底100的对数');//=>以10为底100的对数
 console.log(Math.log(512)/Math.LN2,'以2为底512的对数');//=>以2为底512的对数
 console.log(Math.exp(3),'e的三次幂');//=>e的三次幂
+
+
+// 补充几个数字api,将数字转为字符串
+const n = 123456.789;
+console.log(n.toFixed(0),'1234567');
+console.log(n.toExponential(1),'1.2e+5');
+console.log(n.toPrecision(7),'123456.7');
+
+// parseFloat() parseInt()
+const n1 = '3.15asDSAd';
+console.log(parseInt(n1),3);//整数
+console.log(parseFloat(n1),3.15);//可以小数

@@ -27,5 +27,23 @@
                 错误Error类 
 	2. Math->参考第三章Math.js
 	3. String->参考第三章String.js
+
+###  第四章、表达式和运算符
+	
+	1. in=>查询x在o对象中存不存在
+		`var o={x:1,y:0};
+		'x' in o->true`
+	2. void=>让浏览器不必显示这个表达式的计算结果
+		`<a href:='javascript:void(0)'></a>`	
+
+###  第五章、语句
+
+	1. 标签语句
+	2. break语句
+	3. continue语句
+	4. return语句
+	5. throw语句
+	6. debugger语句
+	7. 'use strict'
 		   
 ### 第二部分. 客户端JavaScript
