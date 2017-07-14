@@ -46,4 +46,7 @@
 	6. debugger语句
 	7. 'use strict'
 		   
+### 第六章、第七章、对象、数组
+
+
 ### 第二部分. 客户端JavaScript
